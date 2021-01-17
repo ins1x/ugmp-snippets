@@ -7,7 +7,7 @@ public OnPlayerConnect(playerid)
 	if(strcmp(ClientVersion, "1.0 -"))
 	{
 		new tmpstr[128];
-		format(tmpstr. sizeof(tmpstr), "You are using game version %s, please use UG-MP launcher to connect!", ClientVersion);
+		format(tmpstr. sizeof(tmpstr), "You are using game client version %s, please use UG-MP launcher to connect!", ClientVersion);
 		SendClientMessage(playerid, COLOR_RED, tmpstr);
 		SendClientMessage(playerid, COLOR_RED, "Download it from: https://gtaundergroundmod.com/");
 		//Kick(playerid);
