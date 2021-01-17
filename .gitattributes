@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+#* text=auto
+#* linguist-vendored
+#*.php linguist-vendored=false
+*.pwn linguist-language=Pawn
+*.inc linguist-language=Pawn
