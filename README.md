@@ -17,3 +17,8 @@ https://github.com/dark0devx/ugmpsnippets
 This online service allows converting between different kinds of coordinates.  
 Currently, only a few locations from UG-MP and streamer version 2.9.4 are supported.  
 https://devtools.undergroundcnr.com/coords.html  
+
+### ugmp-coordget
+A simple small filterscript to pick up centered coordinates from   
+Liberty City and Vice City in the GTA: Underground modded version of SA-MP.  
+https://github.com/markski1/ugmp-coordget
