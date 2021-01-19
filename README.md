@@ -10,7 +10,8 @@ https://github.com/GF-MP/snippets
 This include contains a list of UG-MP objects in the format modelid - object name.  
 https://github.com/ins1x/ugmp-objects-models  
 
-### vehicles sorted by games
+### ugmp vehicles
+All vehicles sorted by location  
 https://github.com/dark0devx/ugmpsnippets  
 
 ### coordinates converter
